@@ -1,0 +1,10 @@
+__pycache__
+models/training/*
+models/others/*
+datasets/*
+audiosets/*
+*.avi
+models/encoding/facenet_20180402-114759/*
+demo_*
+LOGO.jpg
+.idea*
